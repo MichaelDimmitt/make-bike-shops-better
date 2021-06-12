@@ -1,5 +1,5 @@
 ## should have a few experiences/pages
-1) selling a bike with the tile format - (for now adapting google tile favella experience)
+1) selling a bike with the tile format - (for now adapting google tile favella experience) can be found here by clicking tile icon in bottom left https://beyondthemap.withgoogle.com/en-us/beyond-the-map/rio
 2) youtube how to's 
 ```
 - clean bike - spin to win vs grinding - bike fits - mountain biking - road racing 
