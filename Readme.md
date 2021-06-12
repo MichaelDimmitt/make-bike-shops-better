@@ -5,8 +5,8 @@
 - clean bike - spin to win vs grinding - bike fits - mountain biking - road racing 
 - road groups - mtb groups - your next bike upgrade - clean your bike! - send me videos(contact us)
 ```
-3) lets get social, share your experiences as you have them
-a. throw up ephemeral pictures to be voted on.
+3) lets get social, share your experiences as you have them<br/>
+a. throw up ephemeral pictures to be voted on.<br/>
 b. cool places you have been "this is a cool place" - example Naples, FL has a cool bike bar with coffee beers.
 
 ## Each of these are wep pages on their own, they could be served at random or navigated between.
@@ -24,11 +24,11 @@ Jacksonville bikers will have cool tech.
 sign up for the michael charity page. I like to buy people in my area random cool gadgets like tirewiz tire pressure monitors. click yes, for a chance for me to buy you something I have been buying for myself lately.
 
 I have run out of things to upgrade for myself so now I buy other people upgrades. usually in the 100 dollar range.
-a. tire wiz
-b. apple air tag + 3d printed bottle mount.
-c. cycling computer
-d. garmin power meter pedals
-e. garmin radar light.
+a. tire wiz<br/>
+b. apple air tag + 3d printed bottle mount.<br/>
+c. cycling computer<br/>
+d. garmin power meter pedals<br/>
+e. garmin radar light.<br/>
 f. random thing that pops into my head.
 
 want to join in on the random charity page<br/>
