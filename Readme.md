@@ -37,4 +37,7 @@ want to join in on the random charity page?<br/>
 I offer full transparency<br/>
 and no favoritism. (I wont even know who my friends are)
 
-
+5) My favotite sites and sources of information
+a. dcrainmaker site for any tech research - that guy is awesome.<br/>
+b. gcn is a fun channel on youtube.<br/>
+c. strava, you should be on it if you are not. Enable Flyby's and add privacy zones!
