@@ -1,0 +1,61 @@
+<div class="main col b">
+  main
+  <div class="post row c">
+    post
+    <div class="item-1 g">item1</div>
+    <div class="item-2 g col">
+      <div class="item-1 g">item2</div>
+      <div class="item-1 g">item2</div>
+    </div>
+  </div>
+  <div class="post row c">
+    post
+    <div class="item-1 g">item1</div>
+    <div class="item-1 g">item2</div>
+  </div>
+  <div class="post row c">
+    post
+    <div class="item-2 g col">
+      <div class="item-1 g">item2</div>
+      <div class="item-1 g">item2</div>
+    </div>
+    <div class="item-1 g">item1</div>
+  </div>
+</div>
+
+<style>
+
+  .item-1 { flex-grow: 2 };
+  
+  .main {
+    width: calc(100vw + -36px);
+    height: calc(100vh - 36px);
+  };
+  .action {
+    height: 400px;
+  }
+  .post { height: calc(37.5vw); }
+  .link { height: 10px; }
+  .download { height: 10px; margin: 10px;}
+  .nav { height: 90px; margin: 10px;}
+  div { padding: 10px; border: solid black;}
+  .b { background-color: powderblue;}
+  .a { background-color: aquamarine;}
+  .c { background-color: chartreuse;}
+  .k { background-color: crimson;}
+  .g { background-color: goldenrod;}
+  .r { background-color: rebeccapurple;}
+  .o { background-color: olivedrab;}
+  .u { background-color: unset;}
+  .n { background-color: navy;}
+  .d { background-color: darkorchid;}
+  .row {
+    display: flex;
+    flex-direction: row;
+  }
+  .col {
+    display: flex;
+    flex-direction: column;
+  }
+  .item-2 { flex-grow: 1 };
+</style>
