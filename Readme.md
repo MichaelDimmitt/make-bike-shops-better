@@ -23,13 +23,18 @@ Jacksonville bikers will have cool tech.
 4) A final page: 
 sign up for the michael charity page. I like to buy people in my area random cool gadgets like tirewiz tire pressure monitors. click yes, for a chance for me to buy you something I have been buying for myself lately.
 
-I have run out of things to upgrade for myself so now I buy other people upgrades. usually in the 100 dollar range.
+#### I have run out of things to upgrade for myself so now I buy other people upgrades. usually in the 100 dollar range.
 a. tire wiz<br/>
 b. apple air tag + 3d printed bottle mount.<br/>
 c. cycling computer<br/>
 d. garmin power meter pedals<br/>
 e. garmin radar light.<br/>
+f. go pro hero 7<br/>
+g. Skydio 2 sports drone<br/>
 f. random thing that pops into my head.
+
+It might be fun to get people things that make sense as a next upgrade.<br/>
+Do you have a computer that can handle video rendering, then gopro or skydio seems a good next step
 
 want to join in on the random charity page<br/>
 offer full transparency<br/>
