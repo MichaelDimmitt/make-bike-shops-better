@@ -20,7 +20,9 @@ This will help you gain trust with shoppers.
 
 Jacksonville bikers will have cool tech.
 
-4) A final page: 
+4) What discussion is hot at the bike shop ?
+
+5) A final page: 
 <br/>sign up for the michael charity page. I like to buy people in my area random cool gadgets like tirewiz tire pressure monitors. click yes, for a chance for me to buy you something I have been buying for myself lately.<br/></br>
 <b/>I have run out of things to upgrade for myself so now I buy other people upgrades. usually in the 100 dollar range.<b/><br/>
 a. tire wiz<br/>
