@@ -3,9 +3,9 @@ This project aims to provide signs with qr codes to bike shops that will empower
 
 1) buying a bike
 2) learning about biking through videos
-3) find cool biking trails, bike shops, and coffee shops.
+3) find cool biking trails, bike riding groups, bike shops, and coffee shops.
 4) hot topic for this week at the bike shop.
-5) how to find bike rides in your city.
+5) 
 6) lists of links that I and other people like.
 
 # Thinking out features below: (dev notes)
