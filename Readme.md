@@ -1,5 +1,17 @@
-## should have a few experiences/pages
-1) selling a bike with the tile format - (for now adapting google tile favella experience) can be found here by clicking tile icon in bottom left https://beyondthemap.withgoogle.com/en-us/beyond-the-map/rio
+## Make bike shops better:
+This project aims to provide signs with qr codes to bike shops that will empowers customers to ask bike mechanics better questions. The mechanics know a lot about biking information are usually passionate about their trade; But often it is hard for the mechanics to get the customers to ask the right questions. Hopefully project will help customers to get excited about buying a bike and ask the right questions to get the best bike for them. From that point on the project will serve as a resource to help them on the learning journey to progress to different biking levels.
+
+1) buying a bike
+2) learning about biking through videos
+3) find cool biking trails, bike shops, and coffee shops.
+4) hot topic for this week at the bike shop.
+5) how to find bike rides in your city.
+6) lists of links that I and other people like.
+
+# Thinking out features below: (dev notes)
+
+## Should have a few experiences/pages
+1) Selling a bike with the tile format - (for now adapting google tile favella experience) can be found here by clicking tile icon in bottom left https://beyondthemap.withgoogle.com/en-us/beyond-the-map/rio
 2) youtube how to's 
 ```
 - clean bike - spin to win vs grinding - bike fits - mountain biking - road racing 
